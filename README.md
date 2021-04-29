@@ -1,3 +1,3 @@
 # [bachew.github.io](https://bachew.github.io)
 
-- [Testing](testing.html)
+- [Deployments](https://github.com/bachew/bachew.github.io/deployments)
