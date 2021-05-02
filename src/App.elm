@@ -1,4 +1,4 @@
-module Main exposing (..)
+module App exposing (..)
 
 import Element exposing (Element, el, text)
 
