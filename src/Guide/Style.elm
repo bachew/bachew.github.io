@@ -1,4 +1,4 @@
-module Style exposing (..)
+module Guide.Style exposing (..)
 
 import Element exposing (Element, el)
 import Element as El

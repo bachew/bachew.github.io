@@ -1,4 +1,4 @@
-module Counter exposing (..)
+module Guide.Counter exposing (..)
 
 import Browser
 import Html exposing (Html, button, div, text)
